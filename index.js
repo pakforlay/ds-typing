@@ -1,5 +1,5 @@
 const dc = require('./discord');
-const { sig } = require("./utils/sig");
+const { sig } = require("./sig");
 var baca = require('readline-sync');
 
 (async () => {

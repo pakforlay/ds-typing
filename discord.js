@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const {types} = require("./utils/types");
+const {types} = require("./types");
 
 // list all the words here, will pick them randomly, doesn't matter how many!
 const words = [
